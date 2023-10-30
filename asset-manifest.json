@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.9a5cdb51.css",
+    "main.js": "/My-Portfolio/static/js/main.b575a500.js",
+    "static/media/Universty.png": "/My-Portfolio/static/media/Universty.cb9ab06611ae2bc891f7.png",
+    "static/media/tf.png": "/My-Portfolio/static/media/tf.e0980f0e8249577fa5f5.png",
+    "static/media/31311.png": "/My-Portfolio/static/media/31311.d3ee9a95b9e05e9709e8.png",
+    "static/media/Veno.Finale.png": "/My-Portfolio/static/media/Veno.Finale.4fc40b8be5e2eeced5a1.png",
+    "static/media/AI.Testo.png": "/My-Portfolio/static/media/AI.Testo.4fcb5a08e92662780cc4.png",
+    "static/media/knife2.png": "/My-Portfolio/static/media/knife2.00f516aa3821be520484.png",
+    "static/media/zz.png": "/My-Portfolio/static/media/zz.616af2648482a8199c53.png",
+    "static/media/desgin-1.png": "/My-Portfolio/static/media/desgin-1.f1f763b38d5e6db990c9.png",
+    "static/media/zcz.png": "/My-Portfolio/static/media/zcz.b578d0cab9e3a109e88e.png",
+    "static/media/111.png": "/My-Portfolio/static/media/111.2fda4815106835c9221c.png",
+    "static/media/anime2.webp": "/My-Portfolio/static/media/anime2.ca64531ccbf82411fc05.webp",
+    "static/media/002-rg-2021-full-lockup-offwhite.jpg": "/My-Portfolio/static/media/002-rg-2021-full-lockup-offwhite.403af121c176ef558e63.jpg",
+    "index.html": "/My-Portfolio/index.html",
+    "main.9a5cdb51.css.map": "/My-Portfolio/static/css/main.9a5cdb51.css.map",
+    "main.b575a500.js.map": "/My-Portfolio/static/js/main.b575a500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5cdb51.css",
+    "static/js/main.b575a500.js"
+  ]
+}
